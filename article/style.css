@@ -1,0 +1,94 @@
+body {
+	font-family: 'Plantin', serif;
+	padding: 0;
+	margin-left:auto;
+	margin-right:auto;
+	font-size: 22px;
+	width: 100%;
+}
+
+header, main {
+	text-align: center;
+	width:80%;
+	margin:auto;
+}
+
+h1 {
+	font-family: 'Lato', sans-serif;
+	font-size: 40px;
+	color: #989797;
+	font-weight: bolder;
+}
+
+
+img {
+	width: 1030px;
+	border: 3px solid black;
+}
+
+.logo {
+	width:250px;
+	border: none;
+	padding-right:780px;
+	border-bottom: 3px solid black;
+}
+
+.logo:hover {
+	opacity:0.8;
+}
+
+article {
+	width:80%;
+	margin: auto;;
+	padding-top: 10px;
+	padding-bottom: 15px; 
+}
+
+p{
+	text-align: center;
+}
+
+h4 {
+	background-color: #f3f3f3;
+	padding: 85px 0;
+	font-size: 30px;
+}
+
+footer {
+    width:100%;
+	background-color: black;
+	color: #fff;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	font-size: 25px;
+	padding: 25px 0;
+}
+
+a {
+	text-decoration:none;
+	font-family: 'Lato', sans-serif;
+	color:#ef5454;
+	font-weight: 600;
+}
+
+a:hover {
+	text-decoration:underline;
+	color: black;
+}
+
+li{
+	display: inline;
+}
+
+li a {
+	color: #fff;
+    padding: 5px 15px 5px 15px;
+    border-right: 2px solid #fff;
+	list-style: none;
+	font-size: 22px;
+	font-weight: 500;
+}
+
+li a:hover {
+	color:#ef5454;
+}
