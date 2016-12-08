@@ -1,0 +1,65 @@
+body {
+	margin:0;
+	padding:0;
+	text-align: left;
+    font-family:'Lato', sans-serif;
+}
+
+#wrapper {
+	background: url(img/dog_cover.jpg) no-repeat;
+	background-size: cover;
+	min-height: 736px;
+	background-position: 0px 40px;
+}
+
+#headline {
+    background-color: black;
+    padding: 20px;
+    margin: auto;
+}
+
+
+h1 {
+	font-size: 40px;
+	color: #fff;
+	text-align: center;
+}
+
+.song {
+    margin-left: 125px;
+    margin-top: 40px;
+    background: #fff;
+    width: 600px;
+    box-shadow: 0 0 34px #8c8c8c;
+}
+
+p {
+	font-size: 25px;
+	line-height: 1.6;
+	font-weight: bold;
+	padding: 50px;
+}
+
+span {
+font-size: 30px;
+color: #d82d6b;
+}
+
+.link{
+	padding:20px 0px 0px 135px;
+}
+
+a {
+	font-size: 30px;
+	color: #d82d6b;
+	text-decoration: none;
+	border: 3px solid #d82d6b;
+	padding:20px;
+}
+
+a:hover {
+	color: black;
+	text-decoration: underline;
+	border: 3px solid black;
+
+}
